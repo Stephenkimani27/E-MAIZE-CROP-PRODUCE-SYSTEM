@@ -1,0 +1,3 @@
+# E-MAIZE-CROP-PRODUCE-SYSTEM
+Alx Webstack-portfolio project about online maize crop produce system
+The Online Maize Crop Multi-vendor and Verification Management System is a web app that simplifies maize trading between multiple vendors. It requires KENAFF registration to participate in the trading process. Farmers must go through quality checks such as moisture content and disease analysis to be registered members of KENAFF. Only registered members can participate in trading. This ensures high-quality maize trading, promotes fair competition, and is efficient for farmers and vendors. The platform maintains the integrity of the maize trading process.
