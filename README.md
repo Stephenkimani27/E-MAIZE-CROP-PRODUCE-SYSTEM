@@ -50,13 +50,11 @@ Copy the extracted source code folder and paste it into the XAMPP's "htdocs" dir
 
 Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 
-Create a new database naming edoc.
+Create a new database naming mvogms.
 
-Import the provided SQL file. The file is known as DATABASE edoc.sql located inside the source code root folder.
+Import the provided SQL file. The file is known as DATABASE mvogms.sql located inside the source code root folder.
 
-Browse the Doctor's Appointment Systsem in a browser. i.e. http://localhost/edoc-echanneling-main/.
-
-
+Browse the Doctor's Appointment Systsem in a browser. i.e. http://localhost/mvogms
 
 
 
@@ -69,19 +67,20 @@ Browse the Doctor's Appointment Systsem in a browser. i.e. http://localhost/edoc
 
 
 
-DATABASE NAME: 'edoc'
+
+
+DATABASE NAME: 'mvogms'
 
 # BUILDIN USER ACCOUNTS OF THIS PROJECT
 
-ADMIN EMAIL:		admin@edoc.com
+ADMIN username:		admin
 
 ADMNIN PASSWORD:a	123
 
 
-vendorEMAIL:		doctor@edoc.com
+vendorusername : shop101
 
-vendor PASSWORD:	123
-
+vendor PASSWORD:	shop102
 
 
 
