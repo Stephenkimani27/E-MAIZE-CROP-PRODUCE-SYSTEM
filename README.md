@@ -75,7 +75,7 @@ DATABASE NAME: 'mvogms'
 
 ADMIN username:		admin
 
-ADMNIN PASSWORD:a	123
+ADMNIN PASSWORD:admin123
 
 
 vendorusername : shop101
